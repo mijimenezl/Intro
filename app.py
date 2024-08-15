@@ -30,3 +30,10 @@ with col2:
     st.write('Darth Vader es el caballero Jedi Anakin Skywalker')
   if modo == 'Dooku':
     st.write('Darth Vader es el caballero Jedi Anakin Skywalker')
+
+
+st.subheader("Uso de botones")
+if st.button('Presiona el boton'):
+  st.write(' If you're not with me, you're my enemy.')
+else: 
+  st.write('Anakin, my allegiance is to the Republic ... to democracy.)
