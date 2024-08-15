@@ -37,3 +37,9 @@ if st.button('Presiona el boton'):
   st.write("If you're not with me, you're my enemy")
 else: 
   st.write('Anakin, my allegiance is to the Republic ... to democracy.')
+
+with st.sidebar:
+  st.subheader("Escoge tu alianza")
+  mod_radio = st.radio("Escoge tu bando", ("Sith", "Jedi", "Bounty hunters")
+
+
