@@ -1,9 +1,9 @@
 import streamlit as st 
 from PIL import Image
 
-st.title("Mi primera página")
-st.header("mi primera chamba")
-st.write("recuerdo el día que de la chamba me enamoré")
+st.title("STAR WARS")
+st.header("tan tan tan tan tan tan tan tan")
+st.write("i hate youuuuu")
 
 image = Image.open('The Dark Lord.png')
 st.image(image, caption='the dark lord')
