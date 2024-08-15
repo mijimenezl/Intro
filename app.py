@@ -6,3 +6,4 @@ st.header("mi primera chamba")
 st.write("recuerdo el día que de la chamba me enamoré")
 
 image = Image.open('The Dark Lord.png')
+st.image(image, caption='the dark lord')
