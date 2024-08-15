@@ -40,6 +40,6 @@ else:
 
 with st.sidebar:
   st.subheader("Escoge tu alianza")
-  mod_radio = st.radio("Escoge tu bando", ("Sith", "Jedi", "Bounty hunters")
+  mod_radio = st.radio("Escoge tu bando", ("Sith", "Jedi", "Bounty hunters"))
 
 
