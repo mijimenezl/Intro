@@ -34,6 +34,6 @@ with col2:
 
 st.subheader("Uso de botones")
 if st.button('Presiona el boton'):
-  st.write(' If you're not with me, you're my enemy.')
+  st.write("If you're not with me, you're my enemy")
 else: 
-  st.write('Anakin, my allegiance is to the Republic ... to democracy.)
+  st.write('Anakin, my allegiance is to the Republic ... to democracy.')
